@@ -24,6 +24,13 @@
     padding: 3px;
 }
 
+#hours {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
 .fourths {
     width: 25%;
     border: .5px solid lightgray;
